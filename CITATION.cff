@@ -1,0 +1,47 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Longatte"
+  given-names: "Guillaume"
+  orcid: "https://orcid.org/0000-0001-9323-8808"
+- family-names: "Lisi"
+  given-names: "Fabio"
+  orcid: "https://orcid.org/0000-0003-3597-596X"
+title: "Encapsulation of single molecules and binding pairs inside nanocontainers - A statistical model to support experimental studies"
+version: 1.0.0
+date-released: 2022-11-09
+url: "https://github.com/Chemistry-fitting-functions/Single-molecule-encapsulation"
+preferred-citation:
+  type: article
+  authors:
+  - family-names: "Longatte"
+    given-names: "Guillaume"
+    orcid: "https://orcid.org/0000-0001-9323-8808"
+  - family-names: "Lisi"
+    given-names: "Fabio"
+    orcid: "https://orcid.org/0000-0003-3597-596X"
+  - family-names: "Chen"
+    given-names: "Xueqian"
+    orcid: "https://orcid.org/0000-0002-5698-8172"
+  - family-names: "Walsh"
+    given-names: "James"
+  - family-names: "Wang"
+    given-names: "Wenqian"
+  - family-names: "Ariotti"
+    given-names: "Nicholas"
+  - family-names: "Boecking"
+    given-names: "Till"
+    orcid: "https://orcid.org/0000-0003-1165-3122"
+  - family-names: "Gaus"
+    given-names: "Katharina"
+  - family-names: "Gooding"
+    given-names: "J. Justin"
+    orcid: "https://orcid.org/0000-0002-5398-0597"
+  doi: "https://doi.org/10.1039/D2CP03627D"
+  journal: "Physical Chemistry Chemical Physics"
+  month: 11
+  start: 28029
+  end: 28039
+  title: "Statistical predictions on the encapsulation of single molecule binding pairs into sized-dispersed nanocontainers"
+  issue: 24
+  year: 2022
